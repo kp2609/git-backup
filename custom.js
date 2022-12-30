@@ -4,6 +4,8 @@ jQuery(document).ready(function($) {
     
     /* for wow animation */
     new WOW().init();
+    /* for wow animation */
+
     
     var currentRequest = null;
     jQuery(".gallery-tab li").on("click", function() {
